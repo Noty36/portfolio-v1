@@ -2591,7 +2591,6 @@ html {
 
   .image-2 {
     border-radius: 8px;
-    box-shadow: 0 6px 15px hsla(214, 43%, 83%, 0.623); /* Darker shadow */
   }
   
   .tags {
